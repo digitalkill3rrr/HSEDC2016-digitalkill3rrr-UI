@@ -1,0 +1,16 @@
+.content {
+  padding-top: 70px;
+  padding-left: 300px;
+  background: steelblue;
+}
+
+.content div {
+  width: 400px;
+  height: 20px;
+  margin: 10px;
+  background: red;
+}
+
+.content div:first-child {
+  background: orange;
+}
